@@ -1,0 +1,15 @@
+# This file tracks properties of this Flutter project.
+version:
+  revision: "manual-scaffold"
+  channel: "stable"
+
+project_type: app
+
+migration:
+  platforms:
+    android:
+      default_package: ug.slcts.slcts_driver
+    ios:
+      default_package: ug.slcts.slctsDriver
+    web:
+      default_package: slcts_driver
